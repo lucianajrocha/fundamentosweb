@@ -1,0 +1,43 @@
+body{
+    background-repeat: no-repeat;
+    background-color: #ff86c0;
+    background-size: 100%;
+  }
+  
+  #titulo{
+   color: azure;
+   margin-top: 55px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 85px;
+  }
+  
+  .subTitulo{
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .centro{
+      display: flex;
+      justify-content: center;
+  }
+  
+  .menu{
+      display: flex;
+      justify-content: space-between;
+  }
+  
+  .img1{
+      margin-left: 150px;
+  }
+  
+  .select{
+   margin-right: 150px;
+  }
+  button:hover{
+   background-color: rgb(214, 25, 25);
+   cursor: pointer;
+  }
+  
+  .transpa{
+     background-color: rgba(50, 50, 50, 0.5);
+  }
